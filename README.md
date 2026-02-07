@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi, I am Shashidhar R
 🔭 I’m currently working on<br>AI/ML projects focused on Computer Vision, Face Recognition, Landmark Detection using CNN, and Smart IoT Automation systems.<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, Computer Vision, Deep Learning, IoT-based smart systems, and real-world problem-solving applications.<br><br>🌱 I’m currently learning<br>Deep Learning, TensorFlow, model deployment, and improving my skills in Data Analysis and Visualization using Python.<br><br>💬 Ask me about<br>Python, OpenCV, CNN models, Face Recognition systems, AI project development, and hackathon experiences (SIH 2024).<br><br>⚡ Fun fact<br>I’m a Smart India Hackathon 2024 Finalist who enjoys building AI solutions that solve real-world problems 🚀
 
 
